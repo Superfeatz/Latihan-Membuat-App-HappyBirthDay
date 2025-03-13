@@ -6,7 +6,7 @@ Kelas : Pemrograman Perangkat Bergerak (G)
 
 ---
 
-# Aplikasi HBD dengan Jetpack Compose
+# Card HBD dengan Jetpack Compose
 
 ## Deskripsi
 Aplikasi ini adalah implementasi sederhana untuk menampilkan ucapan selamat ulang tahun menggunakan Jetpack Compose pada platform Android. Aplikasi ini menampilkan teks ucapan "Happy Birth Day Sam!" dan pengirim "Emma" dengan desain yang terpusat, menggunakan font khusus yang unik dan dekoratif.
